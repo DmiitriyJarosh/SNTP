@@ -1,2 +1,4 @@
-# SNTPServer
-Simple SNTP server writte on Python. Usage: `main.py ip port`
+# SNTP
+* Simple NTP server written on Python. Usage: `main.py ip port`
+* NTP client written on Java
+
